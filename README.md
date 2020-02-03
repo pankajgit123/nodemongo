@@ -1,2 +1,1 @@
-# nodemongo
-mongodb connection and query
+# Skeleton project for Swagger
